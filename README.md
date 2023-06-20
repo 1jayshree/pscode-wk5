@@ -1,2 +1,1 @@
-# 1jayshree-pscode-wk5
-# Pseudocode-week5
+# pscode-wk5
